@@ -35,3 +35,11 @@ Redattore per diverse testate online e cartacee su tematiche riguardanti terzo s
 
 **LAUREA IN SCIENZA DELLA POLITICA** @UNIVERSITÀ LA SAPIENZA DI ROMA (2011-2014)<br>
 Tesi di laurea: “L’esperienza giornalistica di Barzini Jr. negli anni ’30: tra Stati Uniti e Italia fascista”.
+
+skill
+
+volontariato
+
+lingue
+
+autorizzazione
