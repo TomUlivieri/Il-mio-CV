@@ -5,11 +5,11 @@ _Osservare è il primo atto da compiere per conoscere, capire e infine raccontar
 
 [Email](mailto:tommaso.ulivieri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tommaso-ulivieri/) / [GitHub](https://github.com/TomUlivieri/) / [Twitter](https://twitter.com/TomUlivieri/) <br>
 
-## :adult: **Chi sono**<br>
+## 🧔 **Chi sono**<br>
 
 Giornalista, esperto di comunicazione web, appassionato di dati e delle informazioni che contengono. Sono continuamente attratto dalle novità e dalla possibilità di apprendere nuove abilità e competenze.Le passioni che mi accompagnano da sempre sono: internet e nuove tecnologie, politica e sport. L’ultimo mondo conosciuto è quello dell’utilizzo dei dati nella comunicazione: una relazione dal grande potenziale che garantirebbe maggiori credibilità ed efficacia ad ogni progetto comunicativo.
 
-## 	👨‍🎓 **Esperienze professionali**<br>
+## 	💼 **Esperienze professionali**<br>
 
 **WEB SPECIALIST E SOCIAL MEDIA MANAGER** @IFEL Fondazione Anci (2013 - PRESENTE)<br>
 * Web content & social media management
@@ -27,7 +27,7 @@ Redattore per diverse testate online e cartacee su tematiche riguardanti terzo s
 * Rivista scientifica Sintesi Dialettica
 * Associazione Articolo 21
 
-## :books: **Istruzione**<br>
+## 👨‍🎓 **Istruzione**<br>
 
 **MASTER DI I LIVELLO IN DATA SCIENCE** @UNIVERSITÀ DI ROMA TOR VERGATA (2020-2021)<br>
 
