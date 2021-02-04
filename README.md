@@ -19,7 +19,13 @@ Giornalista, esperto di comunicazione web, appassionato di dati e delle informaz
 * Organizzazione e gestione di attività di formazione a distanza (webinar).<br>
 
 **GIORNALISTA** (2009-PRESENTE)<br>
-Redattore per diverse testate online e cartacee su tematiche riguardanti terzo settore, politica interna e internazionale e sport. Caporedattore della rubrica sportiva per il settimanale “FuoriLeMura” (2009-2014).<br>
+Redattore per diverse testate online e cartacee su tematiche riguardanti terzo settore, politica interna e internazionale e sport. Caporedattore della rubrica sportiva per il settimanale “FuoriLeMura” (2009-2014). Ho collaborato con:
+* Quotidiano Enti locali – Sole24Ore. Osservatorio Anci-IFEL
+* Sito di informazione e approfondimento Doculife.it
+* Settimanale online FuoriLeMura.com
+* Reti Solidali (Rivista del Centro Servizi per il Volontariato del Lazio)
+* Rivista scientifica Sintesi Dialettica
+* Associazione Articolo 21
 
 ## :books: **Istruzione**<br>
 
