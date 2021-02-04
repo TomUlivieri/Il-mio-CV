@@ -9,7 +9,7 @@ _Osservare è il primo atto da compiere per conoscere, capire e infine raccontar
 
 Giornalista, esperto di comunicazione web, appassionato di dati e delle informazioni che contengono. Sono continuamente attratto dalle novità e dalla possibilità di apprendere nuove abilità e competenze.Le passioni che mi accompagnano da sempre sono: internet e nuove tecnologie, politica e sport. L’ultimo mondo conosciuto è quello dell’utilizzo dei dati nella comunicazione: una relazione dal grande potenziale che garantirebbe maggiori credibilità ed efficacia ad ogni progetto comunicativo.
 
-## 	:briefcase: **Esperienze professionali**<br>
+## 	👨‍🎓 **Esperienze professionali**<br>
 
 **WEB SPECIALIST E SOCIAL MEDIA MANAGER** @IFEL Fondazione Anci (2013 - PRESENTE)<br>
 * Web content & social media management
