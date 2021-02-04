@@ -5,7 +5,7 @@ _Osservare è il primo atto da compiere per conoscere, capire e infine raccontar
 
 [Email](mailto:tommaso.ulivieri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tommaso-ulivieri/) / [GitHub](https://github.com/TomUlivieri/) / [Twitter](https://twitter.com/TomUlivieri/) <br>
 
-## **Chi sono**
+### **Chi sono**
 
 Giornalista, esperto di comunicazione web, appassionato di dati e delle informazioni che contengono. Sono continuamente attratto dalle novità e dalla possibilità di apprendere nuove abilità e competenze.Le passioni che mi accompagnano da sempre sono: internet e nuove tecnologie, politica e sport. L’ultimo mondo conosciuto è quello dell’utilizzo dei dati nella comunicazione: una relazione dal grande potenziale che garantirebbe maggiori credibilità ed efficacia ad ogni progetto comunicativo.
 
