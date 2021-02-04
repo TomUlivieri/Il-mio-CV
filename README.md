@@ -11,16 +11,16 @@ Giornalista, esperto di comunicazione web, appassionato di dati e delle informaz
 
 ## 	💼 **Esperienze professionali**<br>
 
-**WEB SPECIALIST E SOCIAL MEDIA MANAGER** <br>
-@IFEL Fondazione Anci (2013 - presente)<br>
+### **WEB SPECIALIST E SOCIAL MEDIA MANAGER** <br>
+*@IFEL Fondazione Anci (2013 - presente)*<br>
 * Web content & social media management
 * Progettazione e sviluppo della comunicazione web per progetti rivolti agli enti locali
 * Ufficio stampa e redazione di testi su argomenti di finanza locale, istituzioni ed enti locali
 * Organizzazione e gestione di eventi in presenza e a distanza (streaming)
 * Organizzazione e gestione di attività di formazione a distanza (webinar).<br>
 
-**GIORNALISTA** <br> 
-(2009 - presente)<br>
+### **GIORNALISTA** <br> 
+*(2009 - presente)*<br>
 Redattore per diverse testate online e cartacee su tematiche riguardanti terzo settore, politica interna e internazionale e sport. Caporedattore della rubrica sportiva per il settimanale “FuoriLeMura” (2009-2014). Ho collaborato con:
 * Quotidiano Enti locali – Sole24Ore. Osservatorio Anci-IFEL
 * Sito di informazione e approfondimento Doculife.it
@@ -31,16 +31,16 @@ Redattore per diverse testate online e cartacee su tematiche riguardanti terzo s
 
 ## 👨‍🎓 **Istruzione**<br>
 
-**MASTER DI I LIVELLO IN DATA SCIENCE** <br> @UNIVERSITÀ DI ROMA TOR VERGATA (2020-2021)<br>
+### **MASTER DI I LIVELLO IN DATA SCIENCE** <br> *@Università di Roma "Tor Vergata" (2020-2021)*<br>
 * CONOSCERE LE FONTI E RACCOGLIERE DATI: Statistica e probabilità per Data Scientist, Data Warehousing e Business Intelligence, Data Security and Privacy, Visual Data Mining
 Data Management
 * ANALIZZARE e GOVERNARE: Big Data, Sistemi Informativi Geografici, Machine Learning, Visual Data Mining, Data Management
 * GENERARE CONOSCENZA E COMUNICARE: Data Journalism and Storytelling, Time Series Analysis, Social Network Analysis, Text Analytics and Opinion Mining 
 
 
-**CORSO DI DATA E VISUAL JOURNALISM** <br> @LA STAMPA ACADEMY (2014)<br>
+### **CORSO DI DATA E VISUAL JOURNALISM** <br> *@La Stampa Academy (2014)*<br>
 
-**LAUREA IN SCIENZA DELLA POLITICA** <br>  @UNIVERSITÀ LA SAPIENZA DI ROMA (2011-2014)<br>
+### **LAUREA MAGISTRALE IN SCIENZA DELLA POLITICA** <br>  @*Università La Sapienza di Roma(2011-2014)*<br>
 Tesi di laurea: “L’esperienza giornalistica di Barzini Jr. negli anni ’30: tra Stati Uniti e Italia fascista”.
 
 ## 	🤹 **Competenze**<br>
