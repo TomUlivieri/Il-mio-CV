@@ -1,9 +1,9 @@
 # Tommaso Ulivieri
 _Data Journalist, Social media e Web content manager, Data Scientist_ <br>
 <br>
-_Osservare è il primo atto da compiere per conoscere, capire e infine raccontare._
+_Osservare è il primo atto da compiere per conoscere, capire e infine raccontare._<br>
 
-[Email](mailto:tommaso.ulivieri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tommaso-ulivieri/) / [GitHub](https://github.com/TomUlivieri/) / [Twitter](https://twitter.com/TomUlivieri/)
+[Email](mailto:tommaso.ulivieri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tommaso-ulivieri/) / [GitHub](https://github.com/TomUlivieri/) / [Twitter](https://twitter.com/TomUlivieri/)<br>
 
 ##👤  Chi sono
 
