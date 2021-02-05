@@ -6,7 +6,7 @@ _Data Journalist, Social media e Web content manager, Data Scientist_ <br>
 
 ## 🧔 **Chi sono**<br>
 
-Giornalista, esperto di comunicazione web, appassionato di dati e delle informazioni che contengono. Sono continuamente attratto dalle novità e dalla possibilità di apprendere nuove abilità e competenze.Le passioni che mi accompagnano da sempre sono: internet e nuove tecnologie, politica e sport. L’ultimo mondo conosciuto è quello dell’utilizzo dei dati nella comunicazione: una relazione dal grande potenziale che garantirebbe maggiori credibilità ed efficacia ad ogni progetto comunicativo.
+Giornalista, esperto di comunicazione web, appassionato di dati e delle informazioni che contengono. Le passioni che mi accompagnano da sempre sono: comunicazione e nuove tecnologie, politica e sport. L’ultimo mondo conosciuto è quello dell’utilizzo dei dati nella comunicazione: una relazione dal grande potenziale che garantirebbe maggiori credibilità ed efficacia ad ogni progetto comunicativo.
 
 ## 	💼 **Esperienze professionali**<br>
 
