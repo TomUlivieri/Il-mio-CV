@@ -48,7 +48,7 @@ Data Management
 * Tesi di laurea: “L’esperienza giornalistica di Barzini Jr. negli anni ’30: tra Stati Uniti e Italia fascista”.
 
 ## 	🤹 **Competenze**<br>
-* **Web**: CMS Wordpress e Joomlam, Html, Google analytics
+* **Web**: CMS Wordpress e Joomla, Html, Google analytics
 * **Social media management**: Facebook, Twitter, YouTube
 * **Data science**: R, Python
 * **Data visualization**: Tableau, Flourish, Infogram, Datawrapper, Highcharts
