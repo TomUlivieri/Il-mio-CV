@@ -1,6 +1,5 @@
 # Tommaso Ulivieri
 _Data Journalist, Social media e Web content manager, Data Scientist_ <br>
-<br>
 > Osservare è il primo atto da compiere per conoscere, capire e infine raccontare.<br>
 
 [Email](mailto:tommaso.ulivieri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tommaso-ulivieri/) / [GitHub](https://github.com/TomUlivieri/) / [Twitter](https://twitter.com/TomUlivieri/) <br>
@@ -21,6 +20,7 @@ Giornalista, esperto di comunicazione web, appassionato di dati e delle informaz
 
 ### **GIORNALISTA** <br> 
 *(2009 - presente) - Iscritto all'Albo dei giornalisti del Lazio*<br>
+<br>
 Redattore per diverse testate online e cartacee su tematiche riguardanti terzo settore, politica interna e internazionale e sport. Caporedattore della rubrica sportiva per il settimanale “FuoriLeMura” (2009-2014). Ho collaborato con:
 * Quotidiano Enti locali – Sole24Ore. Osservatorio Anci-IFEL
 * Sito di informazione e approfondimento Doculife.it
