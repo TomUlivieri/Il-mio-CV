@@ -41,10 +41,10 @@ Redattore per diverse testate online e cartacee su tematiche riguardanti terzo s
 
 ### **MASTER DI I LIVELLO IN DATA SCIENCE** <br> 
 *@Università di Roma "Tor Vergata" (2020-2021)*<br>
-* Fonti e raccolta dei dati: Statistica e probabilità per Data Scientist, Data Warehousing e Business Intelligence, Data Security and Privacy, Visual Data Mining
+* **Fonti e raccolta dei dati:** Statistica e probabilità per Data Scientist, Data Warehousing e Business Intelligence, Data Security and Privacy, Visual Data Mining
 Data Management
-* Analisi dei dati: Big Data, Sistemi Informativi Geografici, Machine Learning, Visual Data Mining, Data Management
-* Generare conoscenza e comunicare: Data Journalism and Storytelling, Time Series Analysis, Social Network Analysis, Text Analytics and Opinion Mining 
+* **Analisi dei dati:** Big Data, Sistemi Informativi Geografici, Machine Learning, Visual Data Mining, Data Management
+* **Generare conoscenza e comunicare:** Data Journalism and Storytelling, Time Series Analysis, Social Network Analysis, Text Analytics and Opinion Mining 
 
 ### **CORSO DI DATA E VISUAL JOURNALISM** <br> 
 *@La Stampa Academy (2014)*<br>
