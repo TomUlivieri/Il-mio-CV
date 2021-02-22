@@ -12,10 +12,10 @@ Giornalista, esperto di comunicazione web, appassionato di dati e delle informaz
 ### **WEB SPECIALIST E SOCIAL MEDIA MANAGER** <br>
 *@IFEL Fondazione Anci (2013 - presente)*<br>
 * Web content & social media management 
-  *  https://www.fondazioneifel.it/
+  *  [a link](https://www.fondazioneifel.it/)
 * Progettazione e sviluppo della comunicazione web per progetti rivolti agli enti locali
-  * https://www.sibater.it/
-  * https://semplifisco.fondazioneifel.it/
+  * [a link](https://www.sibater.it/)
+  * [a link](https://semplifisco.fondazioneifel.it/)
 * Ufficio stampa e redazione di testi su argomenti di finanza locale, istituzioni ed enti locali
 * Organizzazione e gestione di eventi in presenza e a distanza (streaming)
 * Organizzazione e gestione di attività di formazione a distanza (webinar).<br>
