@@ -11,8 +11,11 @@ Giornalista, esperto di comunicazione web, appassionato di dati e delle informaz
 
 ### **WEB SPECIALIST E SOCIAL MEDIA MANAGER** <br>
 *@IFEL Fondazione Anci (2013 - presente)*<br>
-* Web content & social media management
+* Web content & social media management 
+  *  https://www.fondazioneifel.it/
 * Progettazione e sviluppo della comunicazione web per progetti rivolti agli enti locali
+  * https://www.sibater.it/
+  * https://semplifisco.fondazioneifel.it/
 * Ufficio stampa e redazione di testi su argomenti di finanza locale, istituzioni ed enti locali
 * Organizzazione e gestione di eventi in presenza e a distanza (streaming)
 * Organizzazione e gestione di attività di formazione a distanza (webinar).<br>
@@ -28,6 +31,12 @@ Redattore per diverse testate online e cartacee su tematiche riguardanti terzo s
 * Rivista scientifica Sintesi Dialettica
 * Associazione Articolo 21
 
+## 	🤹 **Competenze**<br>
+* **Web**: CMS Wordpress e Joomla, Html, Google analytics
+* **Social media management**: Facebook, Twitter, YouTube
+* **Data science**: R, Python
+* **Data visualization**: Tableau, Flourish, Infogram, Datawrapper, Highcharts
+
 ## 👨‍🎓 **Istruzione**<br>
 
 ### **MASTER DI I LIVELLO IN DATA SCIENCE** <br> 
@@ -37,7 +46,6 @@ Data Management
 * Analisi dei dati: Big Data, Sistemi Informativi Geografici, Machine Learning, Visual Data Mining, Data Management
 * Generare conoscenza e comunicare: Data Journalism and Storytelling, Time Series Analysis, Social Network Analysis, Text Analytics and Opinion Mining 
 
-
 ### **CORSO DI DATA E VISUAL JOURNALISM** <br> 
 *@La Stampa Academy (2014)*<br>
 * Data analysis e visualization con strumenti Google
@@ -46,8 +54,4 @@ Data Management
 *@Università La Sapienza di Roma(2011-2014)*<br>
 * Tesi di laurea: “L’esperienza giornalistica di Barzini Jr. negli anni ’30: tra Stati Uniti e Italia fascista”.
 
-## 	🤹 **Competenze**<br>
-* **Web**: CMS Wordpress e Joomla, Html, Google analytics
-* **Social media management**: Facebook, Twitter, YouTube
-* **Data science**: R, Python
-* **Data visualization**: Tableau, Flourish, Infogram, Datawrapper, Highcharts
+
