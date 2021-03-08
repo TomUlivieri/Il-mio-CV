@@ -54,4 +54,10 @@ Data Management
 *@Università La Sapienza di Roma(2011-2014)*<br>
 * Tesi di laurea: “L’esperienza giornalistica di Barzini Jr. negli anni ’30: tra Stati Uniti e Italia fascista”.
 
+## 🔗 **Progetti**<br>
+
+### 📊 **Dataviz**
+* [L'Agenda 2030 e la raccolta differenziata: dove siamo arrivati](https://public.tableau.com/profile/tomulivieri#!/vizhome/DashboardMaster/Dashboard1 "L'Agenda 2030 e la raccolta differenziata: dove siamo arrivati")
+* [Produzione e gestione dei rifiuti.Consumo responsabile e sostenibile: a che punto siamo](https://infogram.com/1pmqjwq5dy03e7b3wpj0m9m601fzeejl55z?live "Produzione e gestione dei rifiuti.Consumo responsabile e sostenibile: a che punto siamo")
+
 
